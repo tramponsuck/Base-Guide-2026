@@ -4,7 +4,7 @@
 
 > Чем выше твой score — тем больше шансов на Builder Rewards, гранты и признание от Base.
 
-![Builder Score](images/cover.png)
+<img width="3591" height="2923" alt="image" src="https://github.com/user-attachments/assets/afc5d63e-d849-450a-94eb-ea05602c360c" />
 
 ## 📋 Оглавление
 
